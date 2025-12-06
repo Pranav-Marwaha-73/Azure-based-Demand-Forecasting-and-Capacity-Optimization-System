@@ -3,12 +3,12 @@ Architecture:
 
 <img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/925b2940-6764-44e9-ac4b-b165a4c25048" />
 
-
+<br>
 <br>
 The dashboard is visible in this link: https://shorturl.at/I0MPW
 
-
-
+<br>
+<br>
 
 
 
